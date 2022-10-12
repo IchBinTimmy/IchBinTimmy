@@ -16,4 +16,4 @@
 
 ~IchBinTimmy
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IchBinTimmy&show_icons=true&theme=calm&count_private=true&include_all_commits=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IchBinTimmy&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
