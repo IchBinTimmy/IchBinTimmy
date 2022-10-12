@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hey 👋
+`🗒️ Quick Description:` Hobby JS Dev
 
-<!--
-**IchBinTimmy/IchBinTimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`⌨️ What I'm doing:` Discord.js bot dev
 
-Here are some ideas to get you started:
+`🤔 Languages Known:` \[HTML\], CSS, JS, PY, TS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`🕰️ Most used npm Packages:` Chalk, Discord.js, Mongoose
+
+`📫 How to reach me on Discord:` Ich Bin's Tim#5204
+
+`👀 Check out too...` [Guild Bump](https://guildbump.com)
+
+`☕ Buy me a ko-fi:` [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G1FNGMS)
+
+
+~IchBinTimmy
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IchBinTimmy&show_icons=true&theme=calm&count_private=true&include_all_commits=true)
