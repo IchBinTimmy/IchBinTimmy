@@ -17,7 +17,7 @@
 
 `🕰️ Most used npm Packages:` Chalk, Discord.js, Mongoose
 
-`📫 How to reach me on Discord:` Ich Bin's Tim#5204
+`📫 How to reach me on Discord:` ichbinstim5204
 
 `👀 Check out too...` [Guild Bump](https://guildbump.com)
 
