@@ -9,17 +9,17 @@
 </a>
 
 ### Hey 👋
-`🗒️ Quick Description:` Hobby JS Dev
+`🗒️ Quick Description:` Hobby dev
 
-`⌨️ What I'm doing:` Discord.js bot dev
+`⌨️ What I'm doing:` Discord bot dev & Full Stack dev
 
-`🤔 Languages Known:` \[HTML\], CSS, JS, PY, TS
+`🤔 Languages Known:` JavaScript, Python, TypeScript, Java, \[HTML\], CSS
 
 `🕰️ Most used npm Packages:` Chalk, Discord.js, Mongoose
 
 `📫 How to reach me on Discord:` ichbinstim5204
 
-`👀 Check out too...` [Guild Bump](https://guildbump.com)
+`👀 Check out too...` [EasySystems](https://easysystems.live)
 
 `☕ Buy me a ko-fi:` [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G1FNGMS)
 
